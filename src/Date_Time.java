@@ -6,6 +6,7 @@ public class Date_Time
 {
 	public static void main(String[] args)
 	{
+		//Postjira 2
 		LocalDate myDate = LocalDate.now();					  // Local date class object
 		System.out.println("Local Date is :  " +myDate);
 		
